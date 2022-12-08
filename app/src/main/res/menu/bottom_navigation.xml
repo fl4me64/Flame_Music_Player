@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/songs"
+        android:icon="@drawable/song_icon"
+        android:title="@string/bottom_navigation_songs" />
+
+    <item
+        android:id="@+id/albums"
+        android:icon="@drawable/album_icon"
+        android:title="@string/bottom_navigation_albums" />
+</menu>

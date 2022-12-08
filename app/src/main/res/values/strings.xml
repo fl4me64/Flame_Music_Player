@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flame Music Player</string>
+    <string name="bottom_navigation_songs">Songs</string>
+    <string name="bottom_navigation_albums">Albums</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="song_details">%1$s | %2$s</string>
+</resources>
